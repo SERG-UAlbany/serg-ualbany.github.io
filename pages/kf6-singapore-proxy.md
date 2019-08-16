@@ -14,3 +14,5 @@
 4. Click on the restore button.
 
 5. [Check Your IP](https://whatsmyip.org) and verify it's changed.
+
+#### [Video Guide](https://youtu.be/8Fkv86qb8bk)
